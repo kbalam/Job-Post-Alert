@@ -64,5 +64,5 @@ def job_scraper():
 
 
 job_scraper()
-print("Email send successfully")
+print("Email send successfully. Check your Inbox!")
 
